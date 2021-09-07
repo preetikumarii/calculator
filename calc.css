@@ -1,0 +1,23 @@
+.container{
+    text-align: center;
+}
+input{
+    padding: 7px 5px 2px 2px;
+    font-size: 18px
+}
+table{
+    background-color: #aeaeb1;
+    margin: auto;
+}
+button{
+    width: 45px;
+    height: 35px;
+    font-size: 18px;
+    background-color: chartreuse;
+}
+button:hover{
+    cursor: pointer;
+}
+table td{
+    padding: 4px;
+}
